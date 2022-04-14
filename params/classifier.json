@@ -1,0 +1,1 @@
+{"LABELS": "files/WFDB_PTBXL/Dx_164873001/TEST/labels.npy", "DATASET_FILE": "files/WFDB_PTBXL/Dx_164873001/TEST/dataset.npy", "LOG_FILE_RES": "res.csv",  "CLASSIFIER": "CLASSIFIER/PROPORTION_0.3/epoch_20.pkl", "BATCH_SIZE": 128}

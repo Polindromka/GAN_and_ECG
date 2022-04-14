@@ -1,0 +1,1 @@
+{"FILE": "data/", "SR": 64, "HIGH_PASS": null, "LOW_PASS": 40, "SUBTRACT_RUNNING_MEAN": 63, "N_LEADS": 6, "WINDOW": 8, "GENERATOR": "WEIGHTS/epoch_6800.pkl", "CLASSIFIER": "CLASSIFIER/PROPORTION_0.3/epoch_35.pkl", "RESULT": "result.csv", "PATH_TO_LIB": "lib/"}
