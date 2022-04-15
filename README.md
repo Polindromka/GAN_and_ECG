@@ -1,4 +1,8 @@
 # GAN_and_ECG
+## Установка библиотек:
+```
+pip install -r requirements.txt
+```
 ## Запуск программы:
 ```
 python main.py 'params/main.json'
